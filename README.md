@@ -1,3 +1,10 @@
+# MyBikeTraffic Updates
+
+### Purpose of this fork
+
+- Auto upload FIT file to an external webapp
+
+
 # mybiketraffic - ConnectIQ app to process Garmin Varia radar data and count vehicles.
 
 v1.0 was a simpledatafield (single data field) app so once you have it loaded onto the garmin it shows up automatically in the list of fields you can select and add to any of the data screen. 
